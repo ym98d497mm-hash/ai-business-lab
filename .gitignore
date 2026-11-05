@@ -218,3 +218,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local customer records
+/projects/customer-tracker/customers.json
+/projects/customer-tracker/customers.json.tmp
+
+# Python cache files
+__pycache__/
+*.pyc
